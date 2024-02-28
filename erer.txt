@@ -1,0 +1,13 @@
+	Locals		
+	Inspector		
+	Expressions		
+		die	@0x409060	Die
+		die.mFaces[die.mIdx]	@0x8828e0	DieFace
+		moveCnt	-1	int
+		moveset	@0x4050e0	int[6][6]
+		score	-19	int
+		table[y][x]	0	int
+		x	0	int
+		y	-1	int
+	Return Value		
+	Tooltip		
